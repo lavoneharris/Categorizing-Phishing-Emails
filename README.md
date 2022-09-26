@@ -7,13 +7,13 @@ This lab will simply view types of phishing Emails and the characteristics of th
 
 
 
-<h2>What are Phishing Emails:</h2>
-
+<h2>What is Phishing Emails:</h2>
+Phishing is a type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message. <br>
 
 <br />
 
 <h2>Why Phishing Emails are Important:</h2>
-
+ 74% of U.S. organizations experienced a successful phishing attack in 2020, a 14% increase from 2019. According to the FBI, phishing is the most common type of cybercrime. In 2020, they saw 12 times more phishing attacks than in 2016.
 <br />
 
 <h2>Types of Phishing Emails</h2>
