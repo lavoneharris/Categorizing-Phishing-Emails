@@ -61,23 +61,23 @@ Example:<br>
 
 
 
-
-Credntial Harvester
-
-
-Social Engineering
+<h2>Credential Harvester</h2>
 
 
-Vishing
+
+<h2>Social Engineering</h2>
 
 
-Smishing
+<h2>Vishing</h2>
 
 
-Whaling
+<h2>Smishing</h2>
 
 
-Malicious File
+<h2>Whaling</h2>
 
 
-Spam Emails
+<h2>Malicious File</h2>
+
+
+<h2>Spam Emails</h2>
