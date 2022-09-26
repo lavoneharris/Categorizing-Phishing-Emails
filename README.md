@@ -85,7 +85,7 @@ Example: The attacker calls the victim saying they are from their bank or anothe
 <h2>Smishing</h2>
 While technically not a email attack. Smishing is a phishing attack done through text message.<br>
 Example: The attacker poses as the IRS and threatens the recipient with arrest and financial ruin unless they call the number in the text. If the recipient calls, they get scammed into sending money.<br>
-<img src="https://imgur.com/QdNeWuk" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<img src="https://imgur.com/QdNeWuk.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
 <br />
 <br />
 <h2>Whaling</h2>
