@@ -37,12 +37,18 @@ Spam Recon Emails:<br>
 Attackers are simply looking to see if a email error "undeliverable" is returned, if it is returned the email is in use, if it is not the email is in use.
 <br>
 Example:<br>
+<img src="https://imgur.com/czX5FrM.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 
 
 
 Social Engineering Recon Emails:<br>
 Social Engineer techniques like impersonation, using a sense of urgency, and using impersonation of someone with a high standing to achieve goal of getting a response.<br>
 Example:<br>
+<img src="https://imgur.com/kyEcyhZ.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 
 
 Tracking Pixel Recon Email:<br>
@@ -53,6 +59,9 @@ Information that can gathered via Pixel:<br>
 - Cilent Used (Webmail or Email)<br>
 - Mobile or Desktop<br>
 Example:<br>
+<img src="https://imgur.com/3VeZefZ.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 
 
 
@@ -62,21 +71,36 @@ Example:<br>
 <h2>Credential Harvester Emails</h2>
 Credential Harvesters are considered the most common phishing email, it uses human weakness and fear to retrieve valid credntials users use on everyday services and accounts. The emails are set up to look like a legit email from a company such as impersonating Amazon,AT&T, and Outlook. This email will have a attached link, that imperosnatiing a real login portal. The user enters the crednetials and it is then stored in a directory or email back to the attacker.<br>
 Example:<br>
+<img src="https://imgur.com/dgbLpAJ.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 
 
 <h2>Vishing</h2>
 While technically not a email attack. Vishing is a phsihing attack done through a phone call.<br>
 Example: The attacker calls the victim saying they are from their bank or another institution and informs them that there is a problem with their account or credit card. They will try and pry senstive information via the phone call.<br>
+<img src="https://imgur.com/sr3hiAj.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 <h2>Smishing</h2>
 While technically not a email attack. Smishing is a phishing attack done through text message.<br>
 Example: The attacker poses as the IRS and threatens the recipient with arrest and financial ruin unless they call the number in the text. If the recipient calls, they get scammed into sending money.<br>
+<img src="https://imgur.com/QdNeWuk" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 <h2>Whaling</h2>
 Whaling is high target phishing attack that is looking to target individuals with high postions such as management. Targets tend to be COO,CEO,and CFO.<br>
 Example:<br>
+<img src="https://imgur.com/jhtybBq.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 <h2>Spam Emails</h2>
 Spam emails are emails that usually unwanted but no malicious in nature. They can be newslatters, marketing emails, and update annoucements.<br>
 Example:<br>
+<img src="https://imgur.com/iLlFJby.png" height="80%" width="80%" alt="Download Windows 10 ISO File"/>
+<br />
+<br />
 
 <h2>False Postive</h2>
 A False Postive are emails that are not sent by a attacker and are actually legit. This can occur becuase of poor formating of the email, email is not expected and asks for a action, user thinks its malicouius, user is bad at idnetifying phishing emails.<br>
-Examples:<br>
+
