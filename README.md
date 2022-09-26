@@ -68,7 +68,7 @@ Example:<br>
 While technically not a email attack. Vishing is a phsihing attack done through a phone call.<br>
 Example: The attacker calls the victim saying they are from their bank or another institution and informs them that there is a problem with their account or credit card. They will try and pry senstive information via the phone call.<br>
 <h2>Smishing</h2>
-While technically not a email attack. Smishing is a phishing attack done through text message.<
+While technically not a email attack. Smishing is a phishing attack done through text message.<br>
 Example: The attacker poses as the IRS and threatens the recipient with arrest and financial ruin unless they call the number in the text. If the recipient calls, they get scammed into sending money.<br>
 <h2>Whaling</h2>
 Whaling is high target phishing attack that is looking to target individuals with high postions such as management. Targets tend to be COO,CEO,and CFO.<br>
